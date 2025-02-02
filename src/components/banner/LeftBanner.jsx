@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I’m a dedicated software developer with expertise in React, JavaScript, Java, SQL, and MySQL. 
+        I’m a dedicated software developer with expertise in React, JavaScript, Java, MySQL. 
         I specialize in building efficient, scalable, and user-friendly solutions. Along with my technical proficiency, 
         I excel in problem-solving, coding, and data structures and algorithms (DSA), which I apply across Java and React projects. 
         I thrive in collaborative environments, always aiming to deliver innovative solutions through clean code. Explore my portfolio 
